@@ -1,12 +1,18 @@
 {
   "name": "eslint-plugin-fsd-path-import",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "plugin for correct fsd imports",
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "import",
+    "fsd"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DimaShumanskiy/eslint-plugin-fsd-path-import"
+  },
   "author": "dima",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
